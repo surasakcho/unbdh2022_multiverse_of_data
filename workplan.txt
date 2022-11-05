@@ -1,0 +1,44 @@
+main problem : Global value chain/ climate change/ food energy crisis
+key step : ดาวเทียม > ทำนายผลผลิตข้าว > เรือส่งออก > ส่งไปประเทศปลายทาง
+
+ข้อมูล
+1. ดาวเทียม
+2. เรือ
+3. FAO ส่งออกรายปี
+4. gistda
+
+step team A ทำงาน (พี่ตี๋ เติ้ล)
+1. โหลดดาวเทียม 2022 jan to sep
+2. gistda บอกพื้นที่ปลูกข้าวปี 2022
+3. NDVI บอกเคิฟข้าวได้
+4. map จาก gistda+NDVI ปี 2022 (9 เดือนแรก)
+5. เพื่อทำนายย้อนกลับไปถึงปี 2000
+6. สุดท้ายได้ว่า แต่ละ pixel มีเคิฟยังไง
+7. และได้ผลเป็น excel ว่าปี 20xx ได้ผล yyy
+
+step team B ทำงาน (ริด กัน)
+1. FAO excel ว่าปี 20xx ได้ผลผลิตข้าว yyy
+2. ต่อ AIS ให้ได้ (ปลาย 2018 - now)
+3. กรองประเภทเรือ ระบุเรือขนข้าวให้ได้
+4. คนพอกิน t+0.2 = (เรือ t,  ข้าว t-1)
+5. Optional เรือ draft ส่งของแต่ละจุด
+
+Step team C ทำ present (อัพ)
+1. ทยอยเก็บผลไปทำ present
+2. อัดคลิป
+
+
+timeline
+1. วันที่ 8 บ่าย 2 เริ่ม
+2. วันที่ 11 9 โมงเช้า cut off meterial งาน team A B
+3. วันที่ 11 เที่ยง ส่ง
+
+
+Trade Matrix
+•https://www.fao.org/faostat/en/#data/TM
+
+
+Given access to Big Data sources like AIS data, Mobile data, Geo-spatial satellite data, etc., give a short abstract of an example of a solution your team can make to assist in solving issues on Global crises. (Note: You may refer to the 2020 AIS Big Data hackathon to get examples of expected solutions/output
+At the UN Hackathon, we are going to develop a unified system that enables the users to monitor rice production at all production stages, beginning at the farm and continuing all the way through the transit to the exporting destinations. Thailand is the world’s second-largest rice exporter in 2021 and the Thai government plans to promote the "Kitchen of the World" campaign in an effort to make Thailand to become a major world food exporter. Currently, 30 % of the country's total land area is now used for agricultural activities.
+The system can be divided into three primary phases. First, we use satellite data to track how much rice is being grown in Thailand and provide real-time estimates of how much rice is being produced in each province. Second, the system will be able to make accurate forecasts regarding the quantity of rice that will be used in the rice milling process as well as the quantity of processed rice that will be exported. Finally, we will use the AIS data (together with the trade data from the customs) to track rice export from Thailand. This step has the potential to strengthen the global supply chain for food production.
+ With the help of real-time satellite and weather data, the system that we propose will be able to provide very accurate projections of the amount of rice that will be harvested throughout each crop season. In addition,the system is able to provide advanced warning to importers of rice from Thailand in the event that an unfavorable occurrence takes place, such as a natural disaster. Our project will be able to contribute to the achievement of a number of the sustainable development goals (SDGs), including the elimination of world hunger, the promotion of good health and well-being, increased economic growth, decreased poverty and inequality, and the promotion of responsible consumption and production.
