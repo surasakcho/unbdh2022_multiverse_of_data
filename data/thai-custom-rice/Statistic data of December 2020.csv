@@ -1,0 +1,106 @@
+Year,Month,Type,Country,"HS Code","Statistic Code","Unit Code",Description,"Quantity (Dec 2020)","FOB (BAHT)(Dec 2020)","Quantity (Jan - Dec 2020)","FOB (BAHT)(Jan - Dec 2020)"
+2563,12,2,LU,10061010,002,KGM,"Glutinous rice in the husk (KGM)",0,0,0,31
+2563,12,2,AE,10061090,001,KGM,"Non-glutinous rice in the husk (KGM)",0,0,57,24318
+2563,12,2,AE,10062010,001,KGM,"Husked rice (cargo rice) of Thai Hom Mali rice 100 %  (KGM)",745935,25769961,10575035,408792792
+2563,12,2,GB,10062010,004,KGM,"Husked rice (cargo rice) of Thai Hom Mali rice 5 % (KGM)",0,0,9000,513951
+2563,12,2,CN,10062010,005,KGM,"Husked rice (cargo rice) of Thai Hom Mali rice 10 % (KGM)",840,36109,52260,2125948
+2563,12,2,CH,10062010,006,KGM,"Husked rice (cargo rice) of Thai Hom Mali rice 15 % (KGM)",0,0,300,14855
+2563,12,2,AE,10062010,500,KGM,"Husked rice (cargo rice) of Thai Hom Mali rice 100 % (Organic) (KGM)",270715,12650394,4805506,232656079
+2563,12,2,SG,10062010,505,KGM,"Husked rice (cargo rice) of Thai Hom Mali rice 5 % (Organic) (KGM)",0,0,14600,817283
+2563,12,2,CH,10062010,515,KGM,"Husked rice (cargo rice) of Thai Hom Mali rice 15 % (Organic) (KGM)",0,0,887152,30556127
+2563,12,2,AE,10062090,001,KGM,"Husked rice (cargo rice) of Thai Fragrant rice, Thai Jasmine rice, Thai Aromatic rice or any other names of same meaning 100 %  (KGM)",1846900,35325030,16557836,355263050
+2563,12,2,AE,10062090,003,KGM,"Husked rice (cargo rice) of Thai Fragrant rice, Thai Jasmine rice, Thai Aromatic rice or any other names of same meaning 5 %  (KGM)",0,0,69996,1806642
+2563,12,2,SG,10062090,005,KGM,"Husked rice (cargo rice) of Thai Fragrant rice, Thai Jasmine rice, Thai Aromatic rice or any other names of same meaning 10 %  (KGM)",0,0,1250,68998
+2563,12,2,CA,10062090,009,KGM,"Other husked rice (cargo rice) 100 % Grade A (KGM)",0,0,1214,117081
+2563,12,2,AE,10062090,010,KGM,"Other husked rice (cargo rice) 5 % (KGM)",5448,97953,11615128,166702855
+2563,12,2,BE,10062090,011,KGM,"Other husked rice (cargo rice) 10 % (KGM)",0,0,25166000,336657694
+2563,12,2,US,10062090,012,KGM,"Other husked rice (cargo rice) 15 % (KGM)",0,0,133000,3679272
+2563,12,2,AO,10062090,018,KGM,"Other husked rice (cargo rice) 100 % Grade B (KGM)",330720,6954037,31785968,474888301
+2563,12,2,US,10062090,501,KGM,"Husked rice (cargo rice) of Thai Fragrant rice, Thai Jasmine rice, Thai Aromatic rice or any other names of same meaning (Organic) (KGM)",0,0,709,88600
+2563,12,2,AE,10062090,504,KGM,"Husked rice, n.e.s. (as sample) (Organic) (KGM)",30804,1935922,410615,28857766
+2563,12,2,CA,10062090,506,KGM,"Husked rice (cargo rice) of Thai Fragrant rice, Thai Jasmine rice, Thai Aromatic rice or any other names of same meaning 100 % (Organic) (KGM)",1000,59432,27179,1649271
+2563,12,2,HK,10062090,508,KGM,"Husked rice (cargo rice) of Thai Fragrant rice, Thai Jasmine rice, Thai Aromatic rice or any other names of same meaning 10 % (Organic) (KGM)",0,0,192,13612
+2563,12,2,AU,10062090,600,KGM,"Husked rice (cargo rice) parboiled (as sample) (KGM)",2170200,31604400,31939180,447154567
+2563,12,2,CA,10062090,601,KGM,"Husked rice (cargo rice) of Thai Fragrant rice, Thai Jasmine rice, Thai Aromatic rice or any other names of same meaning (as sample) (KGM)",70166,3202615,731219,37728014
+2563,12,2,AE,10062090,604,KGM,"Husked rice, n.e.s. (as sample) (KGM)",145033,5022603,2598963,94176570
+2563,12,2,DE,10062090,605,KGM,"Husked rice (cargo rice) of Thai Fragrant rice, Thai Jasmine rice, Thai Aromatic rice or any other names of same meaning (as sample)  (Organic) (KGM)",35200,1989328,549946,32443472
+2563,12,2,AE,10062090,606,KGM,"Husked Black, Dark purple,  and Purple  rice (cargo rice) Prime quality (KGM)",69681,5344870,781623,54699840
+2563,12,2,AU,10062090,607,KGM,"Husked Black, Dark purple,  and Purple  rice (cargo rice) Superb quality (KGM)",68609,3837930,1345283,77603975
+2563,12,2,AE,10062090,608,KGM,"Husked Black, Dark purple,  and Purple  rice (cargo rice) Prime quality  (Organic) (KGM)",17416,1049264,203461,14648918
+2563,12,2,AE,10062090,609,KGM,"Husked Black, Dark purple,  and Purple  rice (cargo rice) Superb quality (Organic) (KGM)",0,0,117571,8878101
+2563,12,2,AE,10062090,610,KGM,"Husked Black, Dark purple,  and Purple  rice (cargo rice) (as sample) (KGM)",2000,127868,35006,2458843
+2563,12,2,AE,10062090,611,KGM,"Husked Black, Dark purple,  and Purple rice (cargo rice) (as sample) (Organic) (KGM)",0,0,560,54128
+2563,12,2,AE,10062090,612,KGM,"Husked Red rice (cargo rice) Prime quality (KGM)",127997,6409714,1644741,92674401
+2563,12,2,AE,10062090,613,KGM,"Husked Red rice (cargo rice) Superb quality (KGM)",151430,6777840,2754105,152582130
+2563,12,2,BE,10062090,614,KGM,"Husked Red rice (cargo rice) Prime quality  (Organic) (KGM)",3520,247609,386743,25528616
+2563,12,2,CA,10062090,615,KGM,"Husked Red rice (cargo rice) Superb quality (Organic) (KGM)",4596,371774,219795,14091897
+2563,12,2,AE,10062090,616,KGM,"Husked Red rice (cargo rice) (as sample) (KGM)",0,0,10004,591865
+2563,12,2,AE,10062090,617,KGM,"Husked Red rice (cargo rice) (as sample) (Organic) (KGM)",0,0,8648,603435
+2563,12,2,AE,10062090,618,KGM,"Husked Black, Dark purple,  and Purple Glutinous rice (cargo rice) Best quality (KGM)",146779,7674791,1505612,87112993
+2563,12,2,AE,10062090,619,KGM,"Husked Black, Dark purple,  and Purple  Glutinous rice (cargo rice) Standard  quality (KGM)",98374,5621360,1001525,59183130
+2563,12,2,HK,10062090,620,KGM,"Husked Black, Dark purple,  and Purple Glutinous rice (cargo rice) Best quality  (Organic) (KGM)",0,0,288,18191
+2563,12,2,AU,10062090,622,KGM,"Husked Black, Dark purple,  and Purple Glutinous rice (cargo rice)  (as sample) (KGM)",7000,465548,40000,2822380
+2563,12,2,LA,10062090,628,KGM,"Husked Red Glutinous rice  (cargo rice) (as sample) (KGM)",0,0,14000,252001
+2563,12,2,CA,10062090,630,KGM,"Special mixed colour rice (cargo rice) (as sample) (KGM)",24480,1137054,273587,14451131
+2563,12,2,CA,10062090,631,KGM,"Special mixed colour rice (cargo rice) (as sample) (organic) (KGM)",0,0,38540,2981499
+2563,12,2,AU,10062090,632,KGM,"Husked colour rice, n.e.s. (as sample) (KGM)",2400,129669,55090,5257432
+2563,12,2,GB,10062090,633,KGM,"Husked colour rice, n.e.s. (as sample) (organic) (KGM)",4448,503560,79052,8032749
+2563,12,2,CN,10063030,001,KGM,"Glutinous rice 100 %  (as sample) (KGM)",4140,104220,7230,127850
+2563,12,2,LA,10063030,002,KGM,"Glutinous rice 5 %  (as sample) (KGM)",0,0,118000,1612005
+2563,12,2,AE,10063030,003,KGM,"Glutinous rice 10 % (KGM)",19658341,436273702,132384682,3985483543
+2563,12,2,US,10063030,004,KGM,"Glutinous rice 15 %  (KGM)",0,0,1634,73211
+2563,12,2,VN,10063030,005,KGM,"Glutinous rice 20 %  (KGM)",197630,3262632,410780,6910122
+2563,12,2,CN,10063030,006,KGM,"Glutinous rice 25 % (KGM)",1874650,36348220,9675353,190454613
+2563,12,2,CY,10063030,601,KGM,"Glutinous rice semi-milled or wholly milled, n.e.s (as sample) (KGM)",0,0,9560,454682
+2563,12,2,AE,10063040,001,KGM,"White non-glutinous rice of Thai Hom Mali rice 100 %  (KGM)",144048557,3976583250,1174429917,40284919853
+2563,12,2,AE,10063040,004,KGM,"White non-glutinous rice of Thai Hom Mali rice 5 % (KGM)",140425,4413278,1110417,34356008
+2563,12,2,GH,10063040,005,KGM,"White non-glutinous rice of Thai Hom Mali rice 10 % (KGM)",0,0,538674,15730662
+2563,12,2,AU,10063040,006,KGM,"White non-glutinous rice of Thai Hom Mali rice 15 % (KGM)",57510,1495365,223825,5962846
+2563,12,2,AE,10063040,500,KGM,"White non-glutinous rice of Thai Hom Mali rice 100 % (Organic) (KGM)",573703,26586679,13423244,655222797
+2563,12,2,GB,10063040,505,KGM,"White non-glutinous rice of Thai Hom Mali rice 5 % (Organic) (KGM)",0,0,4000,251583
+2563,12,2,AT,10063040,510,KGM,"White non-glutinous rice of Thai Hom Mali rice 10 % (Organic) (KGM)",21000,1152985,21000,1152985
+2563,12,2,HK,10063040,515,KGM,"White non-glutinous rice of Thai Hom Mali rice 15 % (Organic) (KGM)",0,0,19368,1748796
+2563,12,2,AE,10063091,001,KGM,"Parboiled rice 100% Sortexed (KGM)",75473208,1086244748,1110935181,16281906726
+2563,12,2,AE,10063091,002,KGM,"Parboiled rice 100%  (KGM)",526569,9008437,14790474,235622397
+2563,12,2,AE,10063091,003,KGM,"Parboiled rice 5% Sortexed (KGM)",34700718,488140402,271073081,3865993833
+2563,12,2,AL,10063091,004,KGM,"Parboiled rice 5%  (KGM)",98356,1549127,13031325,194115656
+2563,12,2,SG,10063091,007,KGM,"Parboiled rice 15% (KGM)",0,0,5000,73187
+2563,12,2,BJ,10063091,600,KGM,"Parboiled rice (as sample) (KGM)",2000000,25902723,9510400,128180443
+2563,12,2,AE,10063099,001,KGM,"White non-glutinous rice of Thai Fragrant rice, Thai Jasmine rice, Thai Aromatic rice or any other names of same meaning 100 % (KGM)",21745710,493444617,403667283,9944848571
+2563,12,2,AE,10063099,003,KGM,"White non-glutinous rice of Thai Fragrant rice, Thai Jasmine rice, Thai Aromatic rice or any other names of same meaning 5 % (KGM)",1062798,21640668,8345117,205902286
+2563,12,2,AU,10063099,005,KGM,"White non-glutinous rice of Thai Fragrant rice, Thai Jasmine rice, Thai Aromatic rice or any other names of same meaning 10 % (KGM)",211200,2818562,1177200,28118433
+2563,12,2,AU,10063099,007,KGM,"White non-glutinous rice of Thai Fragrant rice, Thai Jasmine rice, Thai Aromatic rice or any other names of same meaning 15 % (KGM)",386487,8478839,5000510,111230554
+2563,12,2,AE,10063099,009,KGM,"Other white non-glutinous rice 100 % Grade A (KGM)",25822,473323,1907840,31099987
+2563,12,2,AE,10063099,010,KGM,"Other white non-glutinous rice 100 % Grade B (KGM)",27329224,378417530,427245441,6136870391
+2563,12,2,FR,10063099,011,KGM,"Other white non-glutinous rice 100 % Grade C (KGM)",0,0,135700,2711583
+2563,12,2,AE,10063099,012,KGM,"Other white non-glutinous rice 5 % (KGM)",83734594,1178425017,997386888,14716662006
+2563,12,2,AE,10063099,013,KGM,"Other white non-glutinous rice 10 % (KGM)",1322133,20514549,23175808,351047877
+2563,12,2,AE,10063099,014,KGM,"Other white non-glutinous rice 15 %  (KGM)",1096790,18338492,15250466,260902273
+2563,12,2,AE,10063099,015,KGM,"White non-glutinous rice of Japonica rice (as sample) (KGM)",68446,2398816,641451,20656365
+2563,12,2,AE,10063099,018,KGM,"White non-glutinous rice 25 % (KGM)",258552,3857066,3404431,53214095
+2563,12,2,ZA,10063099,022,KGM,"White non-glutinous rice 45 % (KGM)",225000,3039120,1475000,20528215
+2563,12,2,GE,10063099,023,KGM,"White non-glutinous rice, vitamin coated (as sample) (KGM)",503500,9148246,9722750,186053262
+2563,12,2,AU,10063099,090,KGM,"Other (KGM)",7877,1799371,62324,14783835
+2563,12,2,AU,10063099,502,KGM,"White non-glutinous rice of Thai Fragrant rice, Thai Jasmine rice, Thai Aromatic rice or any other names of same meaning 100 % (Organic) (KGM)",0,0,235875,11725312
+2563,12,2,AU,10063099,600,KGM,"White non-glutinous rice of Thai Fragrant rice, Thai Jasmine rice, Thai Aromatic rice or any other names of same meaning  (as sample) (KGM)",251060,6760090,18393746,420395718
+2563,12,2,AU,10063099,601,KGM,"Non-glutinous rice, semi-milled or wholly milled, n.e.s  (as sample) (KGM)",16229264,245309138,325157124,4568672080
+2563,12,2,AU,10063099,602,KGM,"Non-glutinous rice, semi-milled or wholly milled, n.e.s  (as sample) (Organic) (KGM)",0,0,280300,12806514
+2563,12,2,AU,10063099,603,KGM,"Special mixed rice, semi-milled or wholly milled, n.e.s  (as sample) (KGM)",47010,1794438,475681,22865129
+2563,12,2,HK,10064010,000,KGM,"Of a kind used for animal feed (KGM)",0,0,129,24398
+2563,12,2,GB,10064090,001,KGM,"Husked rice (cargo rice), broken (as sample) (KGM)",35000,703875,95000,1889746
+2563,12,2,AE,10064090,003,KGM,"Broken non-glutinous rice of Thai Hom Mali rice A1 Extra Super (KGM)",4423512,73027640,15854394,312918487
+2563,12,2,CA,10064090,004,KGM,"Other broken non-glutinous rice A1 Extra Super (KGM)",216650,3005579,1539170,22837240
+2563,12,2,AE,10064090,005,KGM,"Broken non-glutinous rice of Thai Hom Mali rice A1 Super (KGM)",11876204,158803218,225270097,3281134689
+2563,12,2,AE,10064090,006,KGM,"Other broken non-glutinous rice A1 Super (KGM)",5983005,71866183,73488920,919384871
+2563,12,2,BJ,10064090,010,KGM,"Broken non-glutinous rice of Thai Fragant rice, Thai Jasmine rice, Thai Aromatic rice or any other names of same meaning A1 Extra Super  (KGM)",75460,1334818,1285973,21442145
+2563,12,2,BJ,10064090,012,KGM,"Broken non-glutinous rice of Thai Fragant rice, Thai Jasmine rice, Thai Aromatic rice or any other names of same meaning A1 Super  (KGM)",4018180,55686913,118963727,1641620067
+2563,12,2,NZ,10064090,018,KGM,"Broken rice parboiled A1 (KGM)",0,0,69000,1134730
+2563,12,2,BE,10064090,019,KGM,"Broken glutinous rice A1 (KGM)",8408740,154005091,110358410,2798636309
+2563,12,2,BE,10064090,501,KGM,"Broken non-glutinous rice of Thai Hom Mali rice A1 Super (Organic) (KGM)",140000,3697972,632000,16067703
+2563,12,2,FR,10064090,600,KGM,"Broken non-glutinous rice, n.e.s (as sample) (KGM)",1240000,19603068,18910540,293497653
+2563,12,2,CN,10064090,602,KGM,"Broken glutinous rice, n.e.s (as sample) (KGM)",3425000,57416856,23602000,431994980
+2563,12,2,CA,10064090,603,KGM,"Broken non-glutinous rice of Thai Fragant rice, Thai Jasmine rice, Thai Aromatic rice or any other names of same meaning (as sample) (KGM)",0,0,1,31
+2563,12,2,SG,10064090,604,KGM,"Broken husked rice (cargo rice), n.e.s (as sample) (KGM)",0,0,5000,141892
+2563,12,2,US,10064090,605,KGM,"Broken non-glutinous rice, n.e.s (as sample) (Organic) (KGM)",0,0,57000,1707837
+2563,12,2,CN,10064090,606,KGM,"Broken rice parboiled, n.e.s. (as sample) (Organic) (KGM)",0,0,500000,5833657
+2563,12,2,US,10064090,609,KGM,"Broken husked rice (cargo rice), n.e.s (as sample) (Organic) (KGM)",0,0,95000,1925345
