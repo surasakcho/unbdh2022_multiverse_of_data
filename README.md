@@ -5,7 +5,7 @@
   
   ![Team Members](https://github.com/surasakcho/unbdh2022_multiverse_of_data/blob/main/multiverse_of_data-team_members.jpg)
 
-  - I decided to share a subset of submitted codes mainly from my contributions, which is downloading and processing satellite data as well as rice cultivation pixels classifer model.
+  - I decided to share a major part of our work, which is downloading and processing satellite data as well as rice cultivation pixels classifer model.
   - For anyone interested in using Satellite data (especially MODIS' NDVI) to monitor crop production, please check to 'modis_ndvi' directory.
   - In this directory, there are several 'ipynb' files. To make it easy to follow, I named file to indicate the sequence of workflow.
   - More explanation of codes are available as comments with in each file.
